@@ -1,2 +1,2 @@
 # unnamedAUV-CAD
-CAD Files for Seadragon AUV 2019 - 2020
+![SeaturtleAUV CAD screenshot](https://github.com/robosub-ucr/unnamedAUV/blob/master/seaturtleAUV%20CAD.png)
